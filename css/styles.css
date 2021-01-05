@@ -144,6 +144,7 @@ body {
 .portfolio .section-title .portfolio-filter .portfolio-tag {
     padding: 1rem;
     border: 3px solid #00182d;
+    margin: 1rem 0;
 }
 
 .portfolio .section-title .portfolio-filter .select-tag {
