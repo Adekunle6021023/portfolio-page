@@ -136,26 +136,6 @@ body {
     background-size: cover;
 }
 
-.portfolio .section-title .portfolio-filter {
-    font-family: 'IBM Plex Mono', monospace;
-    font-weight: 300;
-    font-size: 18px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.portfolio .section-title .portfolio-filter .tag {
-    padding: 0.25rem;
-    border: 3px solid #00182d;
-    margin: 1rem;
-}
-
-.portfolio .section-title .portfolio-filter .select-tag {
-    color: #ffffff;
-    background-color: #00182d;
-}
-
 .portfolio .portfolio-wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
